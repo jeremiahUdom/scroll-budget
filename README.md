@@ -104,8 +104,8 @@ Usage data is read locally on your device using Android's usage-access APIs, the
 
 Scroll Budget only collects what's needed to run the app — no ads, no data sold to third parties.
 
-- [Privacy Policy](https://jeremiahudom.github.io/scroll-budget-legal/privacy-policy)
-- [Terms of Service](https://jeremiahudom.github.io/scroll-budget-legal/terms-of-service)
+- [Privacy Policy](https://jeremiahudom.github.io/scroll-budget/privacy-policy)
+- [Terms of Service](https://jeremiahudom.github.io/scroll-budget/terms-of-service)
 
 ---
 
