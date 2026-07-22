@@ -31,29 +31,29 @@ Users pick which installed apps they want to limit, set an hourly budget for eac
 
 ### Notification Request
 
-![Set Scroll Budget](assets/screenshots/UsageAccessPermission.jpg)
+![Set Scroll Budget](screenshots/UsageAccessPermission.jpg)
 
 ### Select Apps
 
-![Select Apps](assets/screenshots/SelectApps.jpg)
+![Select Apps](screenshots/SelectApps.jpg)
 
 ### Set Scroll Budget
 
-![Set Scroll Budget](assets/screenshots/SelectBudget.jpg)
-![Set Scroll Budget](assets/screenshots/SetCustomBudget.jpg)
+![Set Scroll Budget](screenshots/SelectBudget.jpg)
+![Set Scroll Budget](screenshots/SetCustomBudget.jpg)
 
 ### Notification
 
-![Set Scroll Budget](assets/screenshots/NotificationPermission.jpg)
-![Set Scroll Budget](assets/screenshots/NotificationRequestPropmpt.jpg)
+![Set Scroll Budget](screenshots/NotificationPermission.jpg)
+![Set Scroll Budget](screenshots/NotificationRequestPropmpt.jpg)
 
 ### Dashboard
 
-![Dashboard](assets/screenshots/Dashboard.jpg)
+![Dashboard](screenshots/Dashboard.jpg)
 
 ### Update Budget
 
-![Set Scroll Budget](assets/screenshots/SetCustomBudget.jpg)
+![Set Scroll Budget](screenshots/SetCustomBudget.jpg)
 
 ---
 
