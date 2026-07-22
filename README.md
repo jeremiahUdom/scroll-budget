@@ -6,6 +6,10 @@ Users pick which installed apps they want to limit, set an hourly budget for eac
 
 ---
 
+## 🎥 Demo
+
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=-DJTPp4xEQc)
+
 ## Tech Stack
 
 - **Framework:** React Native + Expo (Expo Router)
